@@ -1,0 +1,23 @@
+{
+  "name": "mysqlconect",
+  "version": "1.0.0",
+  "description": "uso de driver mysqlconnect",
+  "main": "index.js",
+  "scripts": {
+    "tes": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kenshinmc23/mysqlconect.git"
+  },
+  "keywords": [
+    "mysql",
+    "conexion"
+  ],
+  "author": "Carlos Meneses",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kenshinmc23/mysqlconect/issues"
+  },
+  "homepage": "https://github.com/kenshinmc23/mysqlconect#readme"
+}
