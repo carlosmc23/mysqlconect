@@ -4,7 +4,7 @@
   "description": "uso de driver mysqlconnect",
   "main": "index.js",
   "scripts": {
-    "tes": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/kenshinmc23/mysqlconect/issues"
   },
-  "homepage": "https://github.com/kenshinmc23/mysqlconect#readme"
+  "homepage": "https://github.com/kenshinmc23/mysqlconect#readme",
+  "dependencies": {
+    "mysql": "^2.15.0"
+  }
 }
